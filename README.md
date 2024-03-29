@@ -18,7 +18,7 @@ depending on what the project requires. I love exploring new tech stack 💻 and
 - 💼 any freelance work? do reach, [email](mailto:anjanprasad112@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-<br>
+<br/>
 
 ### 🔨 Languages and Tools:
 
