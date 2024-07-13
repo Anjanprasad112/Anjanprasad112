@@ -14,7 +14,7 @@ depending on what the project requires. I love exploring new tech stack 💻 and
 - 🔭 &nbsp; I’m currently working on Nextjs project
 - 🌱 &nbsp; I’m currently learning Typescript;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/anjan-prasad-32b26320a/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1PKr9BXidA-0lysF6lXWvvy1tmCEd7k6S/view?usp=drive_link)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1vI8_HjzT8ObIZfPMMqJTi4lSSJIJiRrL/view?usp=sharing)
 - 💼 any freelance work? do reach, [email](mailto:anjanprasad112@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
