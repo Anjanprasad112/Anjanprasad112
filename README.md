@@ -8,7 +8,7 @@ depending on what the project requires. I love exploring new tech stack 💻 and
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Anjanprasad112/Anjanprasad112/blob/main/coding-github.gif?raw=true" width="500" height="320" />
 
 ### 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working on LLM project
